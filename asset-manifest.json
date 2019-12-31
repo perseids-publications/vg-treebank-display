@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vg-treebank-display/static/css/main.c6a36044.chunk.css",
-    "main.js": "/vg-treebank-display/static/js/main.634bdff9.chunk.js",
-    "main.js.map": "/vg-treebank-display/static/js/main.634bdff9.chunk.js.map",
+    "main.js": "/vg-treebank-display/static/js/main.6472f2b4.chunk.js",
+    "main.js.map": "/vg-treebank-display/static/js/main.6472f2b4.chunk.js.map",
     "runtime-main.js": "/vg-treebank-display/static/js/runtime-main.4ead3f5b.js",
     "runtime-main.js.map": "/vg-treebank-display/static/js/runtime-main.4ead3f5b.js.map",
     "static/css/2.5c60d895.chunk.css": "/vg-treebank-display/static/css/2.5c60d895.chunk.css",
     "static/js/2.256f0985.chunk.js": "/vg-treebank-display/static/js/2.256f0985.chunk.js",
     "static/js/2.256f0985.chunk.js.map": "/vg-treebank-display/static/js/2.256f0985.chunk.js.map",
     "index.html": "/vg-treebank-display/index.html",
-    "precache-manifest.aa27cfd8304d729f6a73fc320661eddf.js": "/vg-treebank-display/precache-manifest.aa27cfd8304d729f6a73fc320661eddf.js",
+    "precache-manifest.9c605880a115323654747bb81a187b64.js": "/vg-treebank-display/precache-manifest.9c605880a115323654747bb81a187b64.js",
     "service-worker.js": "/vg-treebank-display/service-worker.js",
     "static/css/2.5c60d895.chunk.css.map": "/vg-treebank-display/static/css/2.5c60d895.chunk.css.map",
     "static/css/main.c6a36044.chunk.css.map": "/vg-treebank-display/static/css/main.c6a36044.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5c60d895.chunk.css",
     "static/js/2.256f0985.chunk.js",
     "static/css/main.c6a36044.chunk.css",
-    "static/js/main.634bdff9.chunk.js"
+    "static/js/main.6472f2b4.chunk.js"
   ]
 }
