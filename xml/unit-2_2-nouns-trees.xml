@@ -18,11 +18,11 @@
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
   </annotator>
    <annotator>
-      <short>O Captain, My Captain</short>
+      <short>VBGorman</short>
       <name>Vanessa Gorman</name>
-      <address>brsirensong@gmail.com</address>
-      <uri>http://data.perseus.org/sosol/users/O%20Captain,%20My%20Captain</uri>
-  </annotator>
+      <address>readgreek@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/VBGorman</uri>
+   </annotator>
    <sentence id="1" document_id="" subdoc="" span="">
       <word id="1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="2"/>
       <word id="2" form="φυλακή" lemma="φυλακή" postag="n-s---fn-" relation="SBJ" head="3"/>
@@ -1009,4 +1009,3 @@
       <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
 </treebank>
-
