@@ -1,13 +1,11 @@
-# Treebank Template
+# VG Treebank Display
 
-Template for publishing collections of treebanks.
-
-The treebanks themselves live in the `./public/xml` directory.
-All other configuration is done using `./src/config.json`.
+Collection of treebanks displayed with
+[perseids-publications/treebank-template](https://github.com/perseids-publications/treebank-template)
 
 ## Try it Out
 
-[https://perseids-publications.github.io/treebank-template/](https://perseids-publications.github.io/treebank-template/)
+[https://perseids-publications.github.io/vg-treebank-display/](https://perseids-publications.github.io/vg-treebank-display/)
 
 ## How to configure with your own treebanks
 
