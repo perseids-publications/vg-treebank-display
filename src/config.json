@@ -1,5 +1,6 @@
 {
   "title": "VG Treebank Display",
+  "treebankReact": true,
   "github": "https://github.com/perseids-publications/vg-treebank-display/",
   "collections": [
     {
