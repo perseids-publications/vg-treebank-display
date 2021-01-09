@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vg-treebank-display/static/css/main.755910ca.chunk.css",
-    "main.js": "/vg-treebank-display/static/js/main.33dbe5d6.chunk.js",
-    "main.js.map": "/vg-treebank-display/static/js/main.33dbe5d6.chunk.js.map",
+    "main.css": "/vg-treebank-display/static/css/main.e4092a8d.chunk.css",
+    "main.js": "/vg-treebank-display/static/js/main.cd369f70.chunk.js",
+    "main.js.map": "/vg-treebank-display/static/js/main.cd369f70.chunk.js.map",
     "runtime-main.js": "/vg-treebank-display/static/js/runtime-main.1d1f4617.js",
     "runtime-main.js.map": "/vg-treebank-display/static/js/runtime-main.1d1f4617.js.map",
-    "static/css/2.68b5518f.chunk.css": "/vg-treebank-display/static/css/2.68b5518f.chunk.css",
-    "static/js/2.c9bf163a.chunk.js": "/vg-treebank-display/static/js/2.c9bf163a.chunk.js",
-    "static/js/2.c9bf163a.chunk.js.map": "/vg-treebank-display/static/js/2.c9bf163a.chunk.js.map",
+    "static/css/2.684cea0e.chunk.css": "/vg-treebank-display/static/css/2.684cea0e.chunk.css",
+    "static/js/2.eb80bedf.chunk.js": "/vg-treebank-display/static/js/2.eb80bedf.chunk.js",
+    "static/js/2.eb80bedf.chunk.js.map": "/vg-treebank-display/static/js/2.eb80bedf.chunk.js.map",
     "index.html": "/vg-treebank-display/index.html",
-    "precache-manifest.a29b02d455792370a15880d0c71b9a29.js": "/vg-treebank-display/precache-manifest.a29b02d455792370a15880d0c71b9a29.js",
+    "precache-manifest.b0932c9043919a5c8193750812b569b0.js": "/vg-treebank-display/precache-manifest.b0932c9043919a5c8193750812b569b0.js",
     "service-worker.js": "/vg-treebank-display/service-worker.js",
-    "static/css/2.68b5518f.chunk.css.map": "/vg-treebank-display/static/css/2.68b5518f.chunk.css.map",
-    "static/css/main.755910ca.chunk.css.map": "/vg-treebank-display/static/css/main.755910ca.chunk.css.map",
-    "static/js/2.c9bf163a.chunk.js.LICENSE.txt": "/vg-treebank-display/static/js/2.c9bf163a.chunk.js.LICENSE.txt",
+    "static/css/2.684cea0e.chunk.css.map": "/vg-treebank-display/static/css/2.684cea0e.chunk.css.map",
+    "static/css/main.e4092a8d.chunk.css.map": "/vg-treebank-display/static/css/main.e4092a8d.chunk.css.map",
+    "static/js/2.eb80bedf.chunk.js.LICENSE.txt": "/vg-treebank-display/static/js/2.eb80bedf.chunk.js.LICENSE.txt",
     "static/media/actions-enable.png": "/vg-treebank-display/static/media/actions-enable.2e3d7005.png",
     "static/media/actions.png": "/vg-treebank-display/static/media/actions.2e98128b.png",
     "static/media/commit.png": "/vg-treebank-display/static/media/commit.73e1f04f.png",
@@ -54,9 +54,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1d1f4617.js",
-    "static/css/2.68b5518f.chunk.css",
-    "static/js/2.c9bf163a.chunk.js",
-    "static/css/main.755910ca.chunk.css",
-    "static/js/main.33dbe5d6.chunk.js"
+    "static/css/2.684cea0e.chunk.css",
+    "static/js/2.eb80bedf.chunk.js",
+    "static/css/main.e4092a8d.chunk.css",
+    "static/js/main.cd369f70.chunk.js"
   ]
 }
